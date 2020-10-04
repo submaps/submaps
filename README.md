@@ -1,4 +1,4 @@
-## Hello everyone 🤚!
+## Hello everyone 🤚
 There is a collection of my favorite projects, I hope you will like some of them.
 Even the greatest road starts with 
 ```python
