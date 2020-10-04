@@ -3,8 +3,7 @@ There is a collection of my favorite projects, I hope you will like some of them
 Even the greatest road starts with 
 ```python
 import numpy as np
-```
-Let's start
+``` Let's start
 <!--
 **submaps/submaps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 GeoScience, Ads, and NLP
